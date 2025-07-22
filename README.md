@@ -3,6 +3,7 @@ Hi 👋 My name is Rachata Sernwittayasak
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [rachata1110sk@gmail.com](mailto:rachata1110sk@gmail.com)
+* ⚡  now I'm study at RSU
 
 <a href="https://www.github.com/HoSern01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HoSern01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ImSer_R" target="_blank" rel="noreferrer"><img
